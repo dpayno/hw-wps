@@ -4,3 +4,6 @@
 [submodule "KiCad_Libraries"]
 	path = KiCad_Libraries
 	url = https://github.com/MrChunckuee-Electronics/KiCad_Libraries.git
+[submodule "kicad-lib"]
+	path = kicad-lib
+	url = git@github.com:dpayno/kicad-lib.git
